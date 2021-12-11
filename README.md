@@ -6,10 +6,10 @@
 
 ## Team Members 
 
-- Shivam Tomar
 - Anupama Kurudi
-- Gunjan Srivastav
+- Gunjan Srivastava
 - Krishna Jha
+- Shivam Tomar
 
 # DataMining_FinalProject
 
