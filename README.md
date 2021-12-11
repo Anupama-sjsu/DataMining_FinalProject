@@ -13,9 +13,6 @@
 
 # DataMining_FinalProject
 
-- This Google Drive link has all the required files:
-
-  https://drive.google.com/drive/folders/1lE_J87gfaWi3n4Mh5A5bh2NLAxFwnnGC?usp=sharing
 
 - The Demo can be found at this link:-
 
