@@ -13,6 +13,10 @@
 
 # DataMining_FinalProject
 
+- All the files can also be found at this Google drive link:
+
+  https://drive.google.com/drive/folders/1lE_J87gfaWi3n4Mh5A5bh2NLAxFwnnGC?usp=sharing
+
 - [Project Report](./Documentation/Project_Report.docx)
 
 - The Demo can be found at this link:-
