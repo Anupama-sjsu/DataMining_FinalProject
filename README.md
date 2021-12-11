@@ -34,3 +34,5 @@
 - The Datasets can be found at this link:-
 
   https://drive.google.com/drive/folders/1hGz8O6D2fX1OyfliID90fCQkaMbO1y4G?usp=sharing
+  
+- [Vertex AI MLOps Pipeline Python script](./deployment-pipeline/pipeline.ipynb)
