@@ -13,6 +13,7 @@
 
 # DataMining_FinalProject
 
+- [Project Report](./Documentation/Project_Report.docx)
 
 - The Demo can be found at this link:-
 
